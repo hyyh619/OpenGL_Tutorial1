@@ -45,3 +45,22 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+*.out
+.*
+*.html
+*.bak
+*/screenshots/*
+tags*
+**/docs/**
+
+# Visual studio projects' files
+*.suo
+*.sdf
+*.user
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.cmd
+*.CMD
+*.vcproj
